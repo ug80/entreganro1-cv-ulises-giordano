@@ -1,0 +1,23 @@
+body{
+    background-color: aqua;
+    font-family: __Roboto_47af24, __Roboto_Fallback_47af24, sans-serif;
+    padding: 150px;
+    
+}
+
+nav{
+    float: right;
+}
+
+nav ul li{
+    list-style: none;
+    margin-left: 75px;
+    padding: 25px 0;
+    float:left ;
+}
+
+div {
+    
+    margin-right: 0px;
+    
+}
